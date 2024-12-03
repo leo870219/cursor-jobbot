@@ -1,0 +1,21 @@
+{
+  "name": "jobbot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@unocss/vite": "^0.65.0-beta.2",
+    "@vueuse/core": "^12.0.0",
+    "unocss": "^0.65.0-beta.2",
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.0.1"
+  }
+}
